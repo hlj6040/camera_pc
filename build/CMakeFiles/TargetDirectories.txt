@@ -1,0 +1,6 @@
+/home/submer/camera_pc/build/CMakeFiles/rebuild_cache.dir
+/home/submer/camera_pc/build/CMakeFiles/edit_cache.dir
+/home/submer/camera_pc/build/CMakeFiles/camera.dir
+/home/submer/camera_pc/build/tcpClient/CMakeFiles/rebuild_cache.dir
+/home/submer/camera_pc/build/tcpClient/CMakeFiles/edit_cache.dir
+/home/submer/camera_pc/build/tcpClient/CMakeFiles/tcpClient.dir
